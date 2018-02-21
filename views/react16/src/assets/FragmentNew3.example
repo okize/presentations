@@ -1,9 +1,0 @@
-import React from 'react';
-
-class AvatarGroup extends React.Component {
-  render() {
-    return 'You can also just return a string now';
-  }
-}
-
-export default AvatarGroup;
