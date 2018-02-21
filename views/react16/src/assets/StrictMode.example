@@ -1,0 +1,13 @@
+import React, { StrictMode } from 'react';
+
+class FooBar extends React.Component {
+  render() {
+    return (
+      <StrictMode>
+        <p>Blah blah</p>
+      </StrictMode>
+    );
+  }
+}
+
+export default FooBar;
