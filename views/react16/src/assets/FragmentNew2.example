@@ -1,0 +1,15 @@
+import React, { Fragment } from 'react';
+import { Avatar } from '@patientslikeme/plm-ui-components';
+
+class AvatarGroup extends React.Component {
+  render() {
+    return (
+      <Fragment>
+        <Avatar url="http://example.com/u1.jpg" />
+        <Avatar url="http://example.com/u2.jpg" />
+      </Fragment>
+    );
+  }
+}
+
+export default AvatarGroup;
