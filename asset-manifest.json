@@ -1,9 +1,10 @@
 {
   "main.css": "static/css/main.653da357.css",
   "main.css.map": "static/css/main.653da357.css.map",
-  "main.js": "static/js/main.f13ff7b3.js",
-  "main.js.map": "static/js/main.f13ff7b3.js.map",
-  "static/media/bambi_thumper.gif": "static/media/bambi_thumper.ed32c991.gif",
-  "static/media/missing_error_boundary.gif": "static/media/missing_error_boundary.65263a37.gif",
-  "static/media/old_react_errors.png": "static/media/old_react_errors.72c8acfb.png"
+  "main.js": "static/js/main.ba7d6392.js",
+  "main.js.map": "static/js/main.ba7d6392.js.map",
+  "static/media/animals.jpg": "static/media/animals.fe4d7403.jpg",
+  "static/media/goback.jpg": "static/media/goback.8d5c5604.jpg",
+  "static/media/layout.png": "static/media/layout.a77d438b.png",
+  "static/media/missing.jpg": "static/media/missing.ee6b604b.jpg"
 }
